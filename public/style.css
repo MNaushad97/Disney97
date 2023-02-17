@@ -1,0 +1,32 @@
+/* .ContainerWrapper {
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  perspective: 10px;
+}
+
+.header {
+  position: relative;
+  display: flex;
+
+  height: 100%;
+  transform-style: preserve-3d;
+  z-index: -1;
+}
+
+.DetailBackgroundImg {
+  transform: translateZ(-30px);
+}
+
+.DetailsDescription {
+  transform: translateZ(-20px);
+  margin-bottom: -52px;
+  margin-left: 20px;
+}
+
+.DetailsImageTitle,
+.DetailsControlsMeta {
+  transform: translateZ(-10px);
+  margin-left: 250px;
+  justify-content: center;
+} */
