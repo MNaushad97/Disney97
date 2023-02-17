@@ -13,12 +13,14 @@ used React+Tailwind CSS + redux
 ![Screen_Recording_2023-02-17_at_6_40_29_PM_AdobeExpress](https://user-images.githubusercontent.com/49271386/219663825-d0e14775-aae7-4c17-8e09-ec262f4824e5.gif)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 -dynamic link for each movie card
 
 
 ![Screen_Recording_2023-02-17_at_6_57_00_PM_AdobeExpress](https://user-images.githubusercontent.com/49271386/219666550-8b3d2d23-89b3-4785-8f12-a6c13096c00f.gif)
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -can play trailer without switching to youtube
 
