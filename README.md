@@ -1,6 +1,6 @@
 OTT Platform responsive web app
 
-visit-> https://disney97-1205e.web.app/home
+visit-> https://disney97-1205e.web.app/
 
 
 Created my 2nd react web app focusing implementing SPA, using React+redux+ Tailwind ,which was inspired from Disney+ OTT platform
