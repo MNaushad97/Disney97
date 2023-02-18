@@ -7,8 +7,8 @@ used React+Tailwind CSS + redux
 - responsive web app
 - has googleAuth signIn/signOut support
 
-![Screen_Recording_2023-02-17_at_6_40_29_PM_AdobeExpress](https://user-images.githubusercontent.com/49271386/219663825-d0e14775-aae7-4c17-8e09-ec262f4824e5.gif) ![Screen_Recording_2023-02-18_at_4_46_41_PM_AdobeExpress (1)](https://user-images.githubusercontent.com/49271386/219858138-e7dcd565-1e6f-4259-892d-29153bd4a0d1.gif)
- ![Screen_Recording_2023-02-18_at_4_46_41_PM_AdobeExpress (1)](https://user-images.githubusercontent.com/49271386/219857554-b306fcb2-e1f9-4c31-b121-8302eed2f26b.gif)
+![Screen_Recording_2023-02-17_at_6_40_29_PM_AdobeExpress](https://user-images.githubusercontent.com/49271386/219663825-d0e14775-aae7-4c17-8e09-ec262f4824e5.gif) ![Screen_Recording_2023-02-18_at_4_46_41_PM_AdobeExpress](https://user-images.githubusercontent.com/49271386/219859665-60b30c0a-1157-4a61-bf84-8b92b2847750.gif)
+
 
 
 
