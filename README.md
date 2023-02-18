@@ -21,7 +21,7 @@ Created my 2nd react web app (May 2022-July 2022) focusing on implementing SPA
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- dynamic link for each movie card
+### dynamic link for each movie card
 
 > let the image load
 
@@ -29,7 +29,7 @@ Created my 2nd react web app (May 2022-July 2022) focusing on implementing SPA
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- can play trailer without switching to youtube
+### can play trailer without switching to youtube
 
 > let the image load
 
