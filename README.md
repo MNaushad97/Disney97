@@ -12,7 +12,9 @@ Created my 2nd react web app (May 2022-July 2022) focusing on implementing SPA
 ### →  Auth state persistence handled by Google firebase
 > Allow the images to load
 
-![Screen_Recording_2023-02-17_at_6_40_29_PM_AdobeExpress](https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneySignIn.gif) ![Screen_Recording_2023-02-18_at_6_54_07_PM_AdobeExpress](https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyMobileHome.gif)
+
+<span>  <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyMobileHome.gif" width="156" height="239.28" />  </span>
+<img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneySignIn.gif" width="403" height="223" />
 
 
 
