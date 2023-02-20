@@ -27,7 +27,7 @@ Created my 2nd react web app (May 2022-July 2022) focusing on implementing SPA
 
 > Allow the image to load
 
-![Screen_Recording_2023-02-17_at_6_57_00_PM_AdobeExpress](https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyDynamicLink.gif)
+<img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/DisneyDynamicLink.gif" width="403" height="223" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Created my 2nd react web app (May 2022-July 2022) focusing on implementing SPA
 
 > Allow the image to load
 
-![Screen_Recording_2023-02-17_at_6_57_57_PM_AdobeExpress](https://github.com/MNaushad97/Disney97/blob/main/src/features/disneyWebTailer.gif)
+<img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/disneyWebTailer.gif" width="403" height="223" />
 
 
 
