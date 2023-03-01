@@ -35,7 +35,7 @@ Created my 2nd react web app (May 2022-July 2022) focusing on implementing SPA
 
 > Allow the image to load
 
-<img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/disneyWebTailer.gif" width="403" height="223" />
+ <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/disneyWebTailer.gif" width="403" height="223" />
 
 
 
