@@ -1,14 +1,14 @@
-# OTT Platform responsive web app
+# Disney97
 
 visit-> https://disney97-1205e.web.app/
 
-Created my 2nd react web app (May 2022-July 2022) focusing on implementing SPA
+A responsive web application designed to function as an OTT (over-the-top) platform which plays trailers of movies
 
 **used React+Tailwind CSS + redux**
 
-- fetches data of movies from firebase
-- responsive web app
-### →  has googleAuth signIn/signOut support
+- Google Firebase used as the backend database andimplemented data retrieval through its API.
+
+### →  Google's Auth feature enables users to securely sign-in
 ### →  Auth state persistence handled by Google firebase
 > Allow the images to load
 
