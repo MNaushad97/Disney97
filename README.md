@@ -38,4 +38,3 @@ A responsive web application designed to function as an OTT (over-the-top) platf
 <img src="https://github.com/MNaushad97/Disney97/blob/main/src/features/disneyWebTailer.gif" width="403" height="223" />
 
 
-
